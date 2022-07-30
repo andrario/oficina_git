@@ -2,10 +2,15 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: #fff5e6;
     color: #22468d;
+    margin: 0px;
 }
 
 .destaque {
     color:#db4682;
+}
+
+.conteudo {
+    margin: 10px;
 }
 
 h1 {
